@@ -1,0 +1,30 @@
+.about-image {
+    width: 80px;
+}
+
+.about-wrapper {
+    margin-top: 40px;
+}
+
+
+/* Make About Card Sharper to see and focused */
+
+.about-box-container {
+    background-color: transparent;
+    padding: 15px;
+    border-radius: 20px;
+    border: 1px solid #fff;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    position: relative;
+    font-size: 1rem;
+    width: 90%;
+}
+
+
+/* About Card container hover. Try to make some fancy */
+
+.about-box-container:hover {
+    background-color: #2196f3;
+    color: white;
+}

@@ -1,0 +1,73 @@
+[{
+        "id": "da7b99a0-b471-42fa-9e88-b79ac8578216",
+        "author_name": "Trisha Snelle",
+        "course_name": "Basic Fundamentals for Software Engineering",
+        "ratings": 5,
+        "author_img": "https://image.freepik.com/free-photo/senior-male-professor-explaining-writing-green-chalkboard_23-2148200956.jpg",
+        "lecture": 76,
+        "lectures_time": 58,
+        "all_course_cost": "$5.75",
+        "per_month_course_cost": "$7.50",
+        "course_icon": "https://cdn-icons-png.flaticon.com/128/2705/2705118.png"
+    },
+    {
+        "id": "4d1a6473-63fd-430e-9c96-68ab0e7dfb15",
+        "author_name": "Gherardo Evison",
+        "course_name": "Business Technology Courses",
+        "ratings": 5,
+        "author_img": "https://image.freepik.com/free-photo/education-business-women-concept-portrait-young-attractive-elegant-female-tutor-young-teacher-student-carry-studying-books-laptop-standing-hall-smiling-camera_197531-22173.jpg",
+        "lecture": 48,
+        "lectures_time": 80,
+        "all_course_cost": "$3.62",
+        "per_month_course_cost": "$0.79",
+        "course_icon": "https://cdn-icons-png.flaticon.com/512/2329/2329087.png"
+    },
+    {
+        "id": "55460909-6d7b-4ab4-8651-7fc5869cef0a",
+        "author_name": "Ramsay Dring",
+        "course_name": "Python Courses",
+        "ratings": 5,
+        "author_img": "https://img.freepik.com/free-photo/talking-audience_1098-14094.jpg?size=338&ext=jpg",
+        "lecture": 2,
+        "lectures_time": 32,
+        "all_course_cost": "$2.00",
+        "per_month_course_cost": "$0.03",
+        "course_icon": "https://cdn-icons-png.flaticon.com/128/3098/3098090.png"
+    },
+    {
+        "id": "feb569ba-6cc0-46eb-b883-fbb4b921f4a4",
+        "author_name": "Fawne Bassindale",
+        "course_name": "Enhancing Adobe Photoshop CC 2020 Skills",
+        "ratings": 5,
+        "author_img": "https://image.freepik.com/free-photo/elegant-young-teacher-with-brunette-hair-stylish-light-shirt-black-striped-suit-glasses-holding-writings-pen-giving-lecture_197531-24666.jpg",
+        "lecture": 12,
+        "lectures_time": 96,
+        "all_course_cost": "$2.73",
+        "per_month_course_cost": "$7.98",
+        "course_icon": "https://cdn-icons-png.flaticon.com/128/3939/3939992.png"
+    },
+    {
+        "id": "5ad092c2-7813-4f86-9880-bd26e2eb5e15",
+        "author_name": "Elvera Sitford",
+        "course_name": "HTML, CSS, and Javascript for Web Developers",
+        "ratings": 5,
+        "author_img": "https://image.freepik.com/free-photo/covid-19-preventing-virus-social-distancing-university-concept-handsome-young-asian-tutor-male-teacher-student-medical-mask-carry-notebooks-lesson-white-background_1258-55782.jpg",
+        "lecture": 21,
+        "lectures_time": 51,
+        "all_course_cost": "$7.66",
+        "per_month_course_cost": "$8.85",
+        "course_icon": "https://cdn-icons-png.flaticon.com/128/888/888954.png"
+    },
+    {
+        "id": "846de059-ad40-4dd3-9858-cc484f7da59d",
+        "author_name": "Zechariah Linstead",
+        "course_name": "Big Data & Analytics Courses",
+        "ratings": 5,
+        "author_img": "https://image.freepik.com/free-photo/pretty-young-student-with-big-glasses-near-some-books-smiling-white-background_231208-1850.jpg",
+        "lecture": 30,
+        "lectures_time": 47,
+        "all_course_cost": "$7.13",
+        "per_month_course_cost": "$6.33",
+        "course_icon": "https://cdn-icons-png.flaticon.com/512/2245/2245170.png"
+    }
+]

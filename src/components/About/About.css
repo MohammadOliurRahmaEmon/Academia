@@ -1,0 +1,16 @@
+/* About component Image Design and sizing*/
+
+.about-img {
+    width: 90%;
+    margin-top: 5%;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+
+/* About Component Container display grid */
+
+.about-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
